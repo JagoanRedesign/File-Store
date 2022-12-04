@@ -10,27 +10,27 @@
     },
     "BOT_TOKEN": {
       "description": "Dapatkan di @botfather.",
-      "value": ""
+      "value": "5778742223:AAHiHE-NqdLr_P9kwR6cjGJMc5ueKiYRtEE"
     },
     "API_ID": {
       "description": "Dapatkan di https://my.telegram.org",
-      "value": ""
+      "value": "14672956"
     },
     "DB_CHANNEL_ID": {
       "description": "Berikan saya channel id kamu (berfungsi juga buat private channel)",
-      "value": ""
+      "value": "-1001866017806"
     },
     "OWNER_ID": {
       "description": "Isi dengan id kamu",
-      "value": ""
+      "value": "5166575484"
     },
     "WAJIB_SUB": {
       "description": "Isi dengan id gc atau channel sub kamu",
-      "value": ""
+      "value": "-1001780241908"
     },
     "API_HASH": {
       "description": "Ambil di  https://my.telegram.org",
-      "value": ""
+      "value": "115e8242ea0423893160bb61a9e05eab"
     }
   },
   "addons": [
